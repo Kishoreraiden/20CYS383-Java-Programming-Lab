@@ -118,6 +118,6 @@ public class UsernameSearchTool {
 ### Demo
 #### Screenshots
 
-<center><img src = "images/1.jpg"></center>
-<center><img src = "images/2.jpg"></center>
+<center><img src = "images/image1.jpg"></center>
+<center><img src = "images/image2.jpg"></center>
 
