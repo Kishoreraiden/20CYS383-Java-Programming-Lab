@@ -128,5 +128,5 @@ public class UsernameSearchTool {
 <center><img src = "images/image2.jpg"></center>
 
 ### Video
-<img src = "images/video.mp4">
+<img src = "images/video.gif">
 
